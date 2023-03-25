@@ -30,11 +30,11 @@
   <div id='about-me' align='left'>
     <h3>👾 About Me:</h3>
       <ul>
-        <li>🧑🏻‍💻 Full time full stack Software Engineer at <a href='https://www.telstrahealth.com/'>Telstra Health</a></li>
-        <li>🧑🏻‍🎓 <a href='https://www.monash.edu/'>Monash</a> Alumni - Alumni Guest Speaker 2023</li>
-        <li>🧑🏻‍🎓 <a href='https://www.monash.edu/study/courses/find-a-course/2023/information-technology-c2000'>Bachelor of Information Technology</a> and <a href='https://www.monash.edu/study/courses/find-a-course/2023/data-science-c6004'>Master of Data Science</a></li>
-        <li>🧑🏻‍💼 Tech internships completed at <a href='https://www.intel.com/'>Intel</a> and <a href='https://www2.deloitte.com/'>Deloitte</a></li>
-        <li>🏊🏻‍♂️ National level sports scholarship holder</li>
+        <li>💼 Full time full stack Software Engineer at <a href='https://www.telstrahealth.com/'>Telstra Health</a></li>
+        <li>🎓 <a href='https://www.monash.edu/'>Monash</a> Alumni - Alumni Guest Speaker 2023</li>
+        <li>📚 <a href='https://www.monash.edu/study/courses/find-a-course/2023/information-technology-c2000'>Bachelor of Information Technology</a> and <a href='https://www.monash.edu/study/courses/find-a-course/2023/data-science-c6004'>Master of Data Science</a></li>
+        <li>🎖 Tech internships completed at <a href='https://www.intel.com/'>Intel</a> and <a href='https://www2.deloitte.com/'>Deloitte</a></li>
+        <li>🏆 National level sports scholarship holder</li>
       </ul>
   </div>
   
