@@ -30,10 +30,11 @@
   <div id='about-me' align='left'>
     <h3>👾 About Me:</h3>
       <ul>
-        <li>💻 Full stack Software Engineer at Telstra Health</li>
-        <li>🎓 Bachelor of Information Technology and Master of Data Science</li>
-        <li>💻 Tech internships completed at Intel and Deloitte</li>
-        <li>🌟 National level sports scholarship holder</li>
+        <li>💻 Software Engineer</li>
+        <li>💻 Ex-intern at Intel and Deloitte</li>
+        <li>🎓 Monash Alumnus</li>
+        <li>🎓 Master of Data Science</li>
+        <li>🎓 Bachelor of Information Technology</li>
       </ul>
   </div>
   
