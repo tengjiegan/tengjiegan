@@ -15,14 +15,6 @@
     <a href='https://www.linkedin.com/in/tengjie-gan/'>
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
     </a>
-    &nbsp;
-    <a href='https://github.com/tengjiegan'>
-      <img src='https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white' alt='GitHub Badge'/>
-    </a>
-    &nbsp;
-    <a href='https://twitter.com/tengjiegan'>
-      <img src='https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter Badge'/>
-    </a>
   </div>
   
   </br>
@@ -30,8 +22,6 @@
   <div id='about-me' align='left'>
     <h3>👾 About Me:</h3>
       <ul>
-        <li>💻 Software Engineer</li>
-        <li>💻 Ex-intern at Intel and Deloitte</li>
         <li>🎓 Monash Alumnus</li>
         <li>🎓 Master of Data Science</li>
         <li>🎓 Bachelor of Information Technology</li>
